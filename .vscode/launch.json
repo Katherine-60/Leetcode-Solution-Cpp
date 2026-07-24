@@ -12,7 +12,7 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "gdb.exe",
+            "miDebuggerPath": "E:\\Tools\\mingw64\\bin\\gdb.exe",
             "preLaunchTask": "编译当前 C++ 文件",
             "setupCommands": [
                 {

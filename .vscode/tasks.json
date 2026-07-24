@@ -4,7 +4,7 @@
         {
             "label": "编译当前 C++ 文件",
             "type": "process",
-            "command": "g++.exe",
+            "command": "E:\\Tools\\mingw64\\bin\\g++.exe",
             "args": [
                 "-std=c++17",
                 "-Wall",
