@@ -1,2 +1,2 @@
-# Leetcode-Solution-C-
+# Leetcode-Solution-Cpp
 C++ solutions for Leetcode algorithm problems
